@@ -1,0 +1,7 @@
+{
+  "name": "EventEase",
+  "start_url": "/EventEase/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Your event companion"
+}
